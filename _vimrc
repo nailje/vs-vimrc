@@ -78,7 +78,7 @@ xnoremap <C-A> <C-C>ggVG
 
 " navigation
 
-nnoremap J :vsc Window.PreviousTab<CR>
+nnoremap H :vsc Window.PreviousTab<CR>
 nnoremap K :vsc Window.NextTab<CR>
 nnoremap L :vsc window.NextDocumentWindowNav<CR>
 
