@@ -1,4 +1,4 @@
-set showmatch 
+set showmatch
 set hlsearch
 set incsearch
 set ignorecase
@@ -78,9 +78,9 @@ xnoremap <C-A> <C-C>ggVG
 
 " navigation
 
-nnoremap H :vsc Window.PreviousTab<CR>
-nnoremap K :vsc Window.NextTab<CR>
-nnoremap L :vsc window.NextDocumentWindowNav<CR>
+" nnoremap H :vsc Window.PreviousTab<CR>
+" nnoremap K :vsc Window.NextTab<CR>
+" nnoremap L :vsc window.NextDocumentWindowNav<CR>
 
 " code view & edit
 
